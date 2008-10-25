@@ -1,0 +1,19 @@
+versão 0.9.1
+- Filtar arquivos na tela de 'Abrir...' (aceitar apenas cbz)
+- Corrigir tela de 'About' (colocar mais informacoes)
+
+versão 0.9.2
+- Implementar atalhos de teclado
+- Implementar historico (simples listagem)
+
+versão 1.0
+- Definir nome?
+
+versao 1.1
+- Converter arquivos cbr para cbz
+- thumbnails
+
+versoes futuras
+- Sistema de "biblioteca"
+- Zoom localizado (ver comix para linux)
+
